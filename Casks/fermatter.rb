@@ -1,8 +1,8 @@
 cask "fermatter" do
-  version "0.11.0,14"
-  sha256 "bf371ec0314c130fb51a5b5d13fbee6fa6aef2e0d2202d5a26922851b4b1f73a"
+  version "0.11.0,15"
+  sha256 "e54bb07d5b29a2bd3c4a3b7d90063c7d45ebdfb74ca5486c06056f906b2cf42c"
 
-  url "https://github.com/FerMatter/fermatter.github.io/releases/download/v#{version.csv.first}-preview.3/FerMatter.dmg"
+  url "https://github.com/FerMatter/fermatter.github.io/releases/download/v#{version.csv.first}-preview.4/FerMatter.dmg"
   name "FerMatter"
   desc "Equations and figures for your slides"
   homepage "https://fermatter.github.io/"
